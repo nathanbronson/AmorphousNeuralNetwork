@@ -35,4 +35,4 @@ $ python3 ANN.py <experiment name>
 All elements of the code are written to facilitate easy import in other code. They may be imported from either their source file or `ANN.py`.
 
 ## License
-See `LICENSE`
+See `LICENSE`.
