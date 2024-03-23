@@ -5,7 +5,7 @@ _____
 a neural framework that knows no bounds
 
 ## About
-AmorphousNeuralNetwork (`ANN`) is a basic attempt at a neural framework that transcends the layers and operations common to conventional neural networks. It uses a non-hierarchical node-based architecture. Each node uses only simple logic and an output action potential to communicate with other nodes. In their composition, a network, they are meant to approximate a given function based, which they learn from training data.
+AmorphousNeuralNetwork (`ANN`) is a basic attempt at a neural framework that transcends the layers and operations common to conventional neural networks. It uses a non-hierarchical node-based architecture. Each node uses only simple logic and an output action potential to communicate with other nodes. Composed to make a network, nodes are meant to approximate a function from training data.
 
 This codebase includes the code for a `Node`, `Network`, a few simple `Datasets`, and some training protocols. It also includes utilities to facilitate and visualize implementations using the framework.
 
